@@ -26,6 +26,7 @@
     "@nestjs/jwt": "^7.1.0",
     "@nestjs/platform-express": "^7.0.0",
     "@nestjs/swagger": "^4.5.12",
+    "class-transformer": "^0.3.1",
     "class-validator": "^0.12.2",
     "eth-sig-util": "^2.5.3",
     "reflect-metadata": "^0.1.13",
